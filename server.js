@@ -14,7 +14,7 @@ app.use(express.json());
 //Serves Up public Directory
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workouts", { 
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", { 
 useNewUrlParser: true,
 useUnifiedTopology: true,
 useFindAndModify: false,
