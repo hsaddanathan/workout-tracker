@@ -37,9 +37,9 @@ Alternatively, you can navigate to https://safe-waters-82221.herokuapp.com/ and 
     * Morgan
     * Heroku
 ## Demo
-![Home](public/assets/workout-home)
-![Dashboard](public/assets/workout-dashboard)
-![Add Workout](public/assets/workout-add)
+![Home](public/assets/workout-home.png)
+![Dashboard](public/assets/workout-dashboard.png)
+![Add Workout](public/assets/workout-add.png)
 
 
 ## Links
