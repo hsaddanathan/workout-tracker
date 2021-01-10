@@ -4,7 +4,7 @@ const logger = require("morgan");
 const apiRoutes= require("./routes/api-routes");
 const htmlRoutes = require("./routes/html-routes");
 
-const PORT= process.env.PORT || 3000;
+const PORT= process.env.PORT || 8080;
 
 const app = express();
 
